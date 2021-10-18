@@ -1,6 +1,6 @@
 const N76_ADDR = 0x10
 //% color="#AA278D" weight=100
-namespace BirRacer {
+namespace BitRacer {
     //% block
     //% blockId=sensor_readIR block="read IRsensor |%address"
     //% SensorIDs.min=1 SensorIDs.max=5
