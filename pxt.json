@@ -9,13 +9,15 @@
     },
     "files": [
         "main.ts",
-        "README.md"
+        "README.md",
+        "_locales/zh-TW/README.md",
+        "_locales/zh-TW/BitRacer-strings.json"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.0.11",
+        "target": "4.0.16",
         "targetId": "microbit"
     },
     "supportedTargets": [
