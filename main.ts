@@ -1,5 +1,5 @@
 const N76_ADDR = 0x10
-//% color="#AA278D" icon="\uf48b" weight=50
+//% color="#AA278D" icon="\uf1b9" weight=50
 namespace BitRacer {
     //% block
     //% blockId=sensor_readIR block="read IRsensor |%address"
